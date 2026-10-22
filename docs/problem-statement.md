@@ -1,13 +1,3 @@
 # Problem Statement
 
-## Who is affected?
-[Users, stakeholders, or businesses]
-
-## What exactly is going wrong?
-[The friction, error, or inefficiency]
-
-## Why does it matter?
-[The impact or cost of the problem]
-
-## Problem statement (3 to 5 sentences)
-[Combine your three answers above into one short paragraph.]
+Chili plants can be affected by different leaf diseases that may affect their growth and reduce crop yield. Farmers or individuals involved in chili cultivation may rely on manual inspection to identify the diseases by observing the changes in leaf colour, shape and appearance. According to Li et al. (2024), manual inspection of chili plants can be time consuming and subjective and its effectiveness depends on the expertise of the person conducting the inspection. Furthermore, this method can be challenging as farmers may misdiagnosed the disease and lead to a wrong treatment which can affect the health of their chili plants especially for farmers that have limited knowledge of plant diseases. 
